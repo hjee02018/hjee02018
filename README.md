@@ -27,7 +27,6 @@
   <br>
 </div>
 
-![HJYANG's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjee02018&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjee02018)](https://github.com/hjee02018/github-readme-stats)  
 
