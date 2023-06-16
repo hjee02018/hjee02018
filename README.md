@@ -29,10 +29,4 @@
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjee02018)](https://github.com/hjee02018/github-readme-stats)  
-
-🔭 I’m currently working on ...
-- <a href="[url](https://github.com/Guriguridang/BestPhoto)" > <h3>Android Photo Editing Application </h3> </a>
-https://github.com/Guriguridang/BestPhoto
-
 
